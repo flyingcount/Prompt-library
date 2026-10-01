@@ -24,6 +24,7 @@ Categories (shared by `prompts/` and `rules/`):
 | [writing](prompts/writing/) | Docs, presentations, hierarchical restructuring |
 | [research](prompts/research/) | Explain, compare, investigate, briefings |
 | [agents](prompts/agents/) | System prompts and agent instructions |
+| [job-search](prompts/job-search/) | Resume rewrites, role targeting, outreach, application strategy |
 
 ## Use a prompt
 
