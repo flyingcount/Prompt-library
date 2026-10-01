@@ -49,21 +49,10 @@ Your task is to identify the central insight and create a question that:
 3. Requires application rather than memorization.
 4. Has no obvious answer from the wording of the question.
 5. Reveals the core idea of the text when discussed.
-
-Do:
-- Require reasoning, judgment, prediction, comparison, diagnosis, or decision-making.
-- Create productive cognitive struggle.
-- Make the question answerable using only the information in the text.
-- Focus on the most important concept, trade-off, or insight.
-- Make the question authentic and relevant to a real-world situation.
-- Prefer stems such as: "What would happen if...?", "Why might someone choose...?", "Which option would you recommend and why?", "What problem is this idea trying to solve?", "How would you explain the difference between...?", "What evidence suggests...?"
-
-Do not:
-- Ask for recall or definition.
-- Explain the key idea in the question stem.
-- Ask more than one question.
-- Invent facts that are not in the text.
-- Write a question whose answer is obvious from how it is worded.
+ 
+Output:
+Design Question: <question>
+Reasoning Target: <the thinking skill being exercised>
 
 If output_mode is question_only: return only the design question, nothing else.
 
