@@ -25,14 +25,16 @@ This repository is a versioned library of reusable AI prompts and Cursor rules.
 │   ├── planning/
 │   ├── writing/
 │   ├── research/
-│   └── agents/
+│   ├── agents/
+│   └── job-search/
 └── rules/                    # Reusable Cursor rules, grouped by category
     ├── coding/
     ├── review/
     ├── planning/
     ├── writing/
     ├── research/
-    └── agents/
+    ├── agents/
+    └── job-search/
 ```
 
 Do not add a new top-level folder without updating this section and `README.md`.
@@ -47,6 +49,7 @@ Do not add a new top-level folder without updating this section and `README.md`.
 | `writing/` | Docs, presentations, hierarchical restructuring |
 | `research/` | Explain, compare, investigate, briefings |
 | `agents/` | System prompts and agent instructions |
+| `job-search/` | Resume rewrites, role targeting, outreach, application strategy |
 
 Put a file in the category that matches **when you would reach for it**, not the domain of the code it happens to mention. If none fit, add a category: create the folder, add a `README.md` index, and update this table.
 
