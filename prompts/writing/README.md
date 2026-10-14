@@ -8,4 +8,5 @@ Docs, presentations, and restructuring prose into a clear hierarchy.
 | `writing/bulletproof-presentation` | Bulletproof presentation template | draft | Map notes into a three-act BPP outline |
 | `writing/slide-hierarchy` | Slide hierarchy | draft | Trim a dump into a headline and three pillars |
 | `writing/ladder-of-abstraction` | Ladder of abstraction | draft | Move text up, down, or into a balanced rung map |
-| `writing/smart-brevity-revision` | Smart Brevity revision | draft | Tighten a draft and score Smart Brevity readiness |
+| `writing/edit-for-smart-brevity` | Smart Brevity Editor | draft | Tighten a document for scanability, clarity, and next steps |
+| `writing/generate-design-question` | Design question generator | draft | Turn source text into one thinking question, not a recall quiz |

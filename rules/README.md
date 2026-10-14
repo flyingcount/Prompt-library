@@ -12,5 +12,6 @@ Keep Cursor frontmatter (`description`, `globs`, `alwaysApply`). Library fields 
 | [writing](writing/) | Docs, presentations, hierarchical restructuring |
 | [research](research/) | Explain, compare, investigate, briefings |
 | [agents](agents/) | System prompts and agent instructions |
+| [job-search](job-search/) | Resume, outreach, and application-workflow instructions |
 
 Add new rules with [templates/rule.mdc](../templates/rule.mdc). Follow [RULES.md](../RULES.md).
